@@ -1,0 +1,24 @@
+.feedback-dialog {
+	border: 5px solid #00a98f;
+	padding: 20px;
+}
+
+.feedback-visible,
+.feedback-hidden {
+  overflow: hidden;
+  /* This container should not have padding, borders, etc. */
+}
+.feedback-visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.5s linear;
+}
+.feedback-hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 0.2s, opacity 0.2s linear;
+}
+/*.feedback-hidden > div {
+  margin-top: -10000px;
+  transition: margin-top 0s 0.5s;
+}*/

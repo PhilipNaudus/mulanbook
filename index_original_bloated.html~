@@ -1,0 +1,384 @@
+﻿<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Zhang Shaoxian's Hua Mulan: The Book</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<!-- Pop-up -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!--fonts-->
+	<link href="//fonts.googleapis.com/css?family=Raleway:100,200i,300,300i,400,400i,500,500i,600,700,800" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Poppins:100i,200,200i,300,300i,400,400i,500" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+	<!--//fonts-->
+</head>
+
+<body>
+	<!-- banner -->
+	<!--<div class="banner_nav_w3layouts">
+		<nav class="navbar navbar-default">
+			<div class="navbar-header navbar-left">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				<h1><a class="navbar-brand" href="index.html"><i class="fa fa-pie-chart" aria-hidden="true"></i>Mulan Book</a></h1>
+
+			</div>
+			<! - - Collect the nav links, forms, and other content for toggling - - >
+			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+				<nav>
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.html" class="hvr-underline-from-center">Home</a></li>
+						<li><a href="#sample" class="hvr-underline-from-center scroll">Subscribe</a></li>
+						<! - -<li><a href="#book" class="hvr-underline-from-center scroll">Book</a></li>
+						<li><a href="#audiobook" class="hvr-underline-from-center scroll">Audiobook</a></li>
+						<li><a href="#reviews" class="hvr-underline-from-center scroll">Reviews</a></li>
+						<li><a href="#sample" class="hvr-underline-from-center scroll">Free sample</a></li>
+						<li><a href="#articles" class="hvr-underline-from-center scroll">Articles</a></li>- - >
+					</ul>
+				</nav>
+
+			</div>
+		</nav>
+
+		<div class="clearfix"> </div>
+	</div>-->
+
+	<div class="banner" id="home">
+		<div class="container">
+			<div class="title1_agile">
+				<h3>Discover the novel that inspired countless readers across imperial China</h3>
+			</div>
+			<div class="title2_agile">
+				<h6>During the Qing Dynasty, Zhang Shaoxian took the various legends of Hua Mulan and united them into a story that would captiate audiences for generations to come.</h6>
+                                <p></p>
+				<!--<p>Lorem ipsum dolor sit amet, Nam arcu mauris, tincidunt Cras sapien urna, malesuada ut varius consequat.</p>-->
+			</div>
+			<div class="links_agile" style="visibility:visible;">
+				<ul class="slide-up">
+					<li><a href="#book" class="w3ls_more scroll">Get the Book</a></li>
+					<li><a href="#audiobook" class="w3ls_more scroll">Get the Audiobook</a></li>
+					<li><a href="#sample" class="scroll contact"><i class="fa fa-angle-double-down" aria-hidden="true"></i>Free sample</a></li>
+				</ul>
+			</div>
+
+			<div class="banner-image-w3layouts">
+				<img src="images/cover.png" alt=" " class="img-responsive" />
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!-- //banner -->
+	<!-- /banner_bottom -->
+	<div class="banner_bottom" id="book">
+		<div class="container">
+			<div class="inner_sec_top_aglieits">
+				<div class="banner_bottom_info">
+					<h4><img src="images/cover_2.jpg" alt=" " class="img-responsive"> Coming soon</h4>
+					<h6>We're working hard to translate this incredible novel and are planning to release in late 2019 or early 2020.</h6>
+					<p>Want to be notified when we're ready to release advance copies of this book? Enter your contact information below.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //banner_bottom -->
+
+	<!-- /skill 
+	<div class="skill_section" id="audiobook">
+		<div class="container">
+			<div class="inner_sec_top_aglieits">
+				<div class="banner_bottom_info">
+					<h4><img src="images/cover_2.jpg" alt=" " class="img-responsive"> Get the audiobook</h4>
+					<h6>Insert product links here</h6>
+					<p>Blah, blah, blah...</p><br /><br /><br />
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<!- - //skill -->
+
+
+	<!-- /testimonials 
+	<div class="testimonials_section" id="reviews">
+		<div class="container">
+			<h3 class="tittle_w3layouts two">Reviews</h3>
+			<p class="sub_para two ">What readers think</p>
+			<div class="skill_info_wthree_agile">
+				<div id="Carousel" class="carousel slide two">
+
+					<ol class="carousel-indicators second">
+						<li data-target="#Carousel" data-slide-to="0" class="active"></li>
+						<li data-target="#Carousel" data-slide-to="1"></li>
+						<li data-target="#Carousel" data-slide-to="2"></li>
+					</ol>
+
+					<!- - Carousel items - ->
+					<div class="carousel-inner">
+
+						<div class="item active">
+							<div class="testimonials_grid_wthree">
+								<h4><i class="fa fa-quote-left" aria-hidden="true"></i>It was an ok book, I guess</h4>
+								<h5>Dan Adams</h5>
+
+							</div>
+
+						</div>
+						<!- -.item- ->
+						<div class="item">
+							<div class="testimonials_grid_wthree">
+								<h4><i class="fa fa-quote-left" aria-hidden="true"></i>Sorry, I clicked the wrong book.</h4>
+								<h5>Jessica Doe</h5>
+
+							</div>
+						</div>
+						<!- -.item- ->
+
+						<div class="item">
+							<div class="testimonials_grid_wthree">
+								<h4><i class="fa fa-quote-left" aria-hidden="true"></i>It has page numbers! Amazing!</h4>
+								<h5>Michael Doe</h5>
+
+							</div>
+						</div>
+						<!- -.item- ->
+
+					</div>
+					<!- -.carousel-inner- ->
+
+				</div>
+				<!- -.Carousel- ->
+
+			</div>
+		</div>
+	</div>
+	<!- - //testimonials -->
+
+	<!-- /contact -->
+	<div class="contact_sec" id="sample">
+		<div class="container">
+			<h3 class="tittle_w3layouts two con">Subscribe to our newsletter</h3>
+			<!--<h3 class="tittle_w3layouts two con">Get a free sample</h3>
+			<p class="sub_para two">Subscribe to our newsletter and we'll send you the first chapter of <em>Mulan</em></p>-->
+			<div class="contact-info skill_info">
+				<!-- Begin Mailchimp Signup Form -->
+				<div id="mc_embed_signup">
+				<form action="https://mulanbook.us20.list-manage.com/subscribe/post?u=f25c7fab2996d1b93cf488de8&amp;id=54faee06f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				    <div id="mc_embed_signup_scroll">
+					
+				<div class="mc-field-group">
+					<input type="text" value="" name="NAME" placeholder="Your Name" class="required" id="mce-NAME">
+				</div>
+				<div class="mc-field-group">
+					<input type="email" value="" name="EMAIL" placeholder="Your Email" class="required email" id="mce-EMAIL">
+				</div>
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response"></div>
+						<div class="response" id="mce-success-response"></div>
+					</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f25c7fab2996d1b93cf488de8_54faee06f6" tabindex="-1" value=""></div>
+				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				    </div>
+				</form>
+				</div>
+				<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+				<!--End mc_embed_signup-->
+			</div>
+		</div>
+	</div>
+	<!-- //contact -->
+
+	<!-- /blog
+	<div class="portfolio-project" id="articles">
+		<div class="container">
+                        <br />
+			<h3 class="tittle_w3layouts two con" style="color:black;">Articles</h3>
+			<p class="sub_para two">For those who wish to know more about one of the greatest heroes in ancient China</p>
+			<div class="skill_info_wthree_agile">
+				<div class="agile_port_w3ls_info">
+					<div class="col-md-6 portfolio-grids_left">
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g1.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g1.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper two">
+									<h5>The many legends of Mulan</h5>
+									
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g2.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g2.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Heaven Catcher's name</h5>
+									
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g3.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g3.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Sky Net in ancient China</h5>
+									
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/g10.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g10.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>"I see dead bodies" - Nuances in translation</h5>
+									
+								</div>
+							</a>
+					</div>
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/g11.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g11.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Were Mulan's feet bound?</h5>
+									
+								</div>
+							</a>
+					</div>
+					<div class="col-md-6 portfolio-grids_left">
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g5.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g5.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper two">
+									<h5>Mulan's grandfather and the formation of the Song Dynasty</h5>
+									
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g4.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g4.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Mulan's siblings</h5>
+
+								</div>
+							</a>
+						</div>
+						<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+							<a href="images/g6.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/g6.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Wasn't Mulan's father a soldier?</h5>
+									
+								</div>
+							</a>
+						</div>
+
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>
+        <!- - //blog -->
+
+	<!-- /footer -->
+	<div class="footer">
+		<div class="container">
+			<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+		</div>
+	</div>
+	<!-- //footer -->
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<!-- Navigation-JavaScript -->
+	<!-- stats -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.countup.js"></script>
+	<script>
+		$('.counter').countUp();
+	</script>
+	<!-- //stats -->
+	<!-- js for portfolio lightbox -->
+	<script src="js/jquery.chocolat.js "></script>
+	<link rel="stylesheet " href="css/chocolat.css " type="text/css " media="screen ">
+	<!--light-box-files -->
+	<!--<script type="text/javascript ">
+		$(function () {
+			$('.portfolio-grids a').Chocolat();
+		});
+	</script>-->
+	<!-- /js for portfolio lightbox -->
+	<!-- Make Carousel auto-scroll -->
+	<script>
+	  !function ($) {
+	    $(function(){
+	      // carousel demo
+	      $('#Carousel').carousel()
+	    })
+	  }(window.jQuery)
+	</script>
+
+	<!-- jarallax-js -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<!-- start-smoth-scrolling -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 1000);
+			});
+		});
+	</script>
+	<!-- start-smoth-scrolling -->
+	<!-- smooth scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+		});
+	</script>
+
+	<div class="arr-w3ls">
+		<a href="#home" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	</div>
+	<!-- //smooth scrolling -->
+
+
+	<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+
+</body>
+
+</html>

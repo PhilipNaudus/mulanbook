@@ -1,0 +1,233 @@
+﻿<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Mulan: The Book</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<!-- Pop-up -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<style>
+</style>
+</head>
+
+<body>
+	<div class="banner" id="home">
+		<div class="container">
+			<div class="title1_agile">
+				<h3>Discover the novels that inspired countless readers across imperial China</h3>
+			</div>
+			<div class="title2_agile">
+				<h6>Many of the original Hua Mulan novels have never been translated into English...</h6><br /><h6>...until now.</h6>
+                                <p></p>
+				<!--<p>Lorem ipsum dolor sit amet, Nam arcu mauris, tincidunt Cras sapien urna, malesuada ut varius consequat.</p>-->
+			</div>
+			<div class="links_agile">
+				<ul class="slide-up">
+					<!--<li><a href="#book" class="w3ls_more scroll">Get the Book</a></li>
+					<li><a href="#audiobook" class="w3ls_more scroll">Get the Audiobook</a></li>-->
+					<li><a href="#book" class="scroll contact"><i class="fa fa-angle-double-down" aria-hidden="true"></i>Learn more</a></li>
+				</ul>
+			</div>
+
+  <div class="arrow arrow-1 links_agile"></div>
+<div class="arrow arrow-2 links_agile"></div>
+			<div class="banner-image-w3layouts">
+				<img src="images/Zhang_Shaoxians_Hua_Mulan_book_cover.png" alt="Zhang Shaoxian's Hua Mulan (book cover)" class="img-responsive" />
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!-- //banner -->
+	<!-- /banner_bottom -->
+	<div class="banner_bottom" id="book">
+		<div class="container">
+			<div class="inner_sec_top_aglieits">
+				<div class="banner_bottom_info">
+					<h4><img src="images/cover_2.jpg" alt="Chinese lantern" class="img-responsive">&nbsp;&nbsp;Why were some of the most inspiring novels from imperial China never translated?</h4>
+<br />
+<p>Translating an ancient text is hard. <i>Really</i> hard.</p>
+
+<p>Novels from imperial China require the reader to be intimately familiar with Chinese history. Moreover, the antiquated storytelling simply will not hold the interest of modern readers. For these reasons, very few translators have been willing spend the effort required to bring Mulan's story into English.</p>
+
+<p>But what if it was possible to read an adaptation which transformed the story into a fast-paced and engaging adventure, providing readers with the necessary backstory to draw them into the action, while remaining true to the original plot?</p>
+
+<p>During the the Qing dynasty, Zhang Shaoxian wrote <i>Fiercely Filial</i>, one of the most popular novels about Mulan. The book opens with these words:</p>
+<blockquote>It is said that that at the end of the Jin Dynasty, the land under heaven was in a state of disarray. The south was in a state of turmoil. The northern states united and began attacking the south.</blockquote>
+
+<br /><p>Unless you're a history buff, you probably didn't notice that these sentences contain a critical piece of backstory which will drive Mulan to make her momentous decision. While most translators would provide a footnote explaining why this is significant, I have adapted my translation to transport you back in time in order to help you see these events for yourself:</p>
+
+<blockquote>
+	The land under heaven had been thrown into a state of chaos.<br /><br />
+
+	While the mentally challenged Emperor Sima Zhong was busy determining whether he could order frogs to croak, eight princes began an intense conflict over who who would usurp the throne. During this intense conflict, the empire began to crumble.<br /><br />
+
+	The barbarians, who had long resented Chinese superiority, siezed this opportunity to unite their forces and strike. In the era that followed, the land was torn by war and fractured into sixteen kingdoms.<br /><br />
+
+	China was no more.<br /><br />
+
+	A new generation arose that knew nothing but turmoil and conflict. After the barbarians burned the historical archives, all memories of the great Chinese empire were completely erased.<br /><br />
+
+It was the darkest moment the land under heaven had ever witnessed.
+</blockquote>
+<br />
+
+<p>I am excited to announce that I have translated four different versions of Mulan's story into English. (Three are from the Qing dynasty and one is from the Ming dynasty.)</p>
+
+<p><b>But I need your help.</b></p>
+
+<p>I need to decide <i>which one</i> to release. Should I release the oldest novel? Or, should I release the last one, which incorporates elements from the other three?</p>
+
+<p>Please take some time to look through the plot summaries of these four stories and vote for which one you like best.</p>
+
+<ul>
+	<li><a href="./romance_of_sui_and_tang">Romance of Sui and Tang</a> (Only chapters 56-61 focus on Mulan)
+	<ul>
+		<li>Mulan begins by fighting against the Chinese, but is convinced to change sides after she is captured by a benevolant Chinese princess.</li>
+	</ul></li>
+	<li><a href="./biography_of_extraordinary_mulan">Biography of Extraordinary Mulan</a>
+	<ul>
+		<li>Ruoxu grandfather learns how to master dark magic but refuses to exercise his power out of self-restraint; eventually, he passes down his knowledge to his granddaughter, Mulan.</li>
+	</ul></li>
+</ul>
+<br />
+
+<p>Thank you so much for your help!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /blog -->
+	<div class="portfolio-project" id="articles">
+		<div class="container">
+			<div class="skill_info_wthree_agile">
+				<div class="agile_port_w3ls_info">
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/thumbs/mulan_joins_the_army.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/thumbs/mulan_joins_the_army.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Mulan Joins the Army</h5>
+									<p>A short and simple comedy which served as an inspiration for many retellings which later followed.</p>
+								</div>
+							</a>
+					</div>
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/thumbs/romance_of_sui_and_tang.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/thumbs/romance_of_sui_and_tang.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Romance of Sui and Tang (Chapters 56-61)</h5>
+									<p>Mulan begins by fighting against the Chinese, but is convinced to change sides after she is captured by a benevolant Chinese princess. When the princess discovers a lost letter from her love interest, which is addressed to a matchmaker, Mulan takes it upon herself to see that the letter reaches its final destination. Will the princess be united with the love of her life?
+								</div>
+							</a>
+					</div>
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/thumbs/biography_of_extraordinary_mulan.png" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/thumbs/biography_of_extraordinary_mulan.png" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Biography of Extraordinary Mulan</h5>
+									<p>Zhu Ruoxu seeks to earn a prominent position. Although he never succeeds, he passes down his knowledge to his granddaughter, Mulan. Many years later, Mulan uses her grandfather's wisdom to defeat the powers of evil but eventually finds herself </p>
+								</div>
+							</a>
+					</div>
+					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
+						<a href="images/thumbs/fiercely_filial.jpg" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+								<img src="images/thumbs/fiercely_filial.jpg" class="img-responsive" alt=" " />
+								<div class="b-wrapper">
+									<h5>Fiercely Filial</h5>
+									<p>Mulan is so adept at warfare that the vanguard grows increasinly jealous of her abilities. Mulan even wins the trust of the enemy princess and thus secures the victory. However, when her fianc&eacute; is apointed army supervisor, she struggles with her her femininity while continuing to pose as a man. Does her feminine nature have any place on the battlefield? Or, will she lose herself and become a hardened warrior?</p>
+								</div>
+							</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>
+        <!- - //blog -->
+	<!-- /contact -//->
+	<div class="contact_sec" id="sample">
+		<div class="container">
+			<h3 class="tittle_w3layouts two con">Subscribe for updates</h3>
+			<p class="sub_para two"><a href="http://eepurl.com/gmfhpj">Subscribe to my newsletter</a> and I'll keep you updated on my research and progress on editing this book.</p>
+			<div class="contact-info skill_info">
+				<!-- Begin Mailchimp Signup Form -//->
+				<div id="mc_embed_signup">
+				<form action="https://mulanbook.us20.list-manage.com/subscribe/post?u=f25c7fab2996d1b93cf488de8&amp;id=54faee06f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				    <div id="mc_embed_signup_scroll">
+					
+				<div class="mc-field-group">
+					<input type="text" value="" name="NAME" placeholder="Your Name" class="required" id="mce-NAME">
+				</div>
+				<div class="mc-field-group">
+					<input type="email" value="" name="EMAIL" placeholder="Your Email" class="required email" id="mce-EMAIL">
+				</div>
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response"></div>
+						<div class="response" id="mce-success-response"></div>
+					</div>    <!-//- real people should not fill this in and expect good things - do not remove this or risk form bot signups-//->
+				    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f25c7fab2996d1b93cf488de8_54faee06f6" tabindex="-1" value=""></div>
+				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				    </div>
+				</form>
+				</div>
+				<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+				<!-//-End mc_embed_signup-//->
+			</div>
+		</div>
+	</div>
+	<!-- //contact -->
+
+	<!-- /footer -->
+	<div class="footer">
+		<div class="container">
+			<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+		</div>
+	</div>
+
+	<!-- //footer -->
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+
+	<!-- jarallax-js -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<!-- start-smoth-scrolling -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 1000);
+			});
+		});
+	</script>
+	<!-- start-smoth-scrolling -->
+	<!-- smooth scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+		});
+	</script>
+	<!-- //smooth scrolling -->
+</body>
+</html>

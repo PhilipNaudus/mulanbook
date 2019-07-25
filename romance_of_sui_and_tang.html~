@@ -1,0 +1,79 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Romance of Sui and Tang - Mulan: The Book</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Historical records on Mulan reveal the touching true story of a girl who sacrificed everything for her ailing father and went on to become a legendary hero.">
+	<meta name="keywords" content="Hua Mulan,Mulan,real,true,history,story,legend">
+	<meta name="author" content="Philip Naudus">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+
+	<!-- Pop-up -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+	<!-- /banner_bottom -->
+	<div class="banner_bottom" id="article">
+		<div class="container">
+			<div class="inner_sec_top_aglieits">
+				<div class="banner_bottom_info">
+					<h4><img src="images/cover_2.jpg" alt="Chinese lantern" class="img-responsive">&nbsp;&nbsp;Romance of Sui and Tang</h4>
+					<!-- begin text -->
+<br />
+<br />
+<center>
+<figure>
+<img class="fillimg" src="images/dou_xianniang_hua_mulan_sworn_sister_romance_of_sui_and_tang.jpg" alt="Princess Dou Xianniang, Mulan's sworn sister. Included in a late reprinting of Romance of Sui and Tang (Public domain)." />
+<figcaption style="text-align: center;"><i>Princess Dou Xianniang, Mulan's sworn sister. Included in a late reprinting of Romance&nbsp;of&nbsp;Sui&nbsp;and&nbsp;Tang (Public domain).</i></figcaption>
+</figure>
+</center>
+<br />
+
+<p>In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, with the intention of drawing the conclusion that the Qing dynasty did not have the mandate of heaven.</p>
+
+<p>Mulan's story begins in chapter 56 of <i>Romance of Sui and Tang</i>. The Tujue khan issues a draft for more men; Mulan's father is among those who are conscripted. Mulan, a biracial (Tujue-Chinese) teenage girl, dresses as a man and volunteers to take her father's place <b>to fight against the Chinese</b>. (There is an overwhelming amount of disinformation about this novel because most people who jump straight to chapter 56 to read Mulan's story assume that she is Chinese.)</p>
+
+<p>The Tujue army is defeated. Mulan rescues the khan but is captured by Princess Dou Xianninang. The Chinese are such generous and loving captors that Mulan discloses her true identity to the princess and the two become sworn sisters. Feeling that her duty to the khan has been fulfilled, Mulan requests to return home in order to bring her entire family to the Chinese side.</p>
+
+<p>Before Mulan departs, the princess entrusts her with a letter to Luo Cheng. During the previous battle, a Chinese soldier had been rescued, who holds an undelivered letter from Luo Cheng. Princess Xianniang is overjoyed to discover that the letter, addressed to a matchmaker, asks for the Xianniang's hand in marriage. However, she quickly realizes that the matchmaker will never be notified until the letter reaches its final destination. Because it would be inappropriate for her to deliver it herself, she writes her own letter asks Mulan to deliver it to Luo Cheng upon her return.</p>
+
+<p>Mulan arrives at her hometown but is devastated to find that her father has passed away. When the khan hears that Mulan is a woman, he no longer feels that he owes her his life; rather, he is determined to take her as his concubine. Mulan asks to see her father's grave before submitting to the khan's demands. There, she slits her own throat, declaring that she will be loyal to no man other than her father.
+Prior to her death, Mulan had entrusted Princess Xianniang's letter to her sister, Youlan. Youlan dresses as a man and delivers the letter to Luo Cheng. A joyful, yet somber, wedding ensues.</p>
+
+
+<p><a href="https://zh.wikisource.org/zh-hant/%E9%9A%8B%E5%94%90%E6%BC%94%E7%BE%A9">Read the original Chinese text of <i>Romance of Sui and Tang.</i></a></p>
+
+<h4>Would you like to read a translation of this story?</h4>
+<p><b>I have already translated this story into English!</b> (The subplot about Mulan is around 50 pages.) I have not yet released my translation because I am still working to adapt the storytelling to make it engaging for modern Western readers.</p>
+
+<div class="feedback-dialog" id="feedback-question"><div>
+	<p><b>Would you be interested in reading a modern adaptation of this short story which remains true to the original plot?</b></p>
+	<center><div class="contact-info"><form><input type="button" value="Yes" onclick="feedback(1, 'romance');" />&nbsp;&nbsp;&nbsp;<input type="button" value="No" onclick="feedback(-1, 'romance');" /></form></div></center>
+</div></div>
+
+<!--<div class="feedback-dialog"><p><b>Thank you for your feedback!</b></p><p>If this story receives enough votes, I will finish adapting my translation to make it engaging for modern readers. If you would like to be notified when this short story is ready for you to enjoy, please enter your email address below.</p></div>-->
+
+					<!-- end text -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /footer -->
+	<div class="footer">
+		<div class="container">
+			<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+		</div>
+	</div>
+	<link href="css/feedback.css" rel="stylesheet" type="text/css" media="all" />
+	<script type="text/javascript" src="js/feedback.js"></script>
+</body>
+</html>
