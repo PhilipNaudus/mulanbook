@@ -11,7 +11,7 @@ title: Mulanbook: The legend and history of Hua Mulan
 description: > # this means to ignore newlines until "baseurl:"
   In-depth analysis of Hua Mulans history and legend, including research into numerous resources
   published over the past 1,500 years.
-baseurl: "/mulanbook" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.mulanbook.com" # the base hostname & protocol for your site
 #twitter_username: 
 #github_username:  
