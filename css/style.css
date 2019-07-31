@@ -728,8 +728,13 @@ p.sub_cap {
 	width: 100%;
 }
 
+.portfolio-project .a-wrapper {
+  display: inline-block;
+  position: relative;
+}
+
 .portfolio-project .b-wrapper {
-    background: #079c87cf;
+    background: #079c87;//cf;
     position: absolute;
     width: 100%;
     height: 50%;
@@ -738,10 +743,23 @@ p.sub_cap {
     padding: 5px;
     transition: .5s all;
     text-align: center;
+
+    // Cross-browser transparency
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+    filter: alpha(opacity=75);
+    -moz-opacity:0.75;
+    -khtml-opacity: 0.75;
+    opacity: 0.75;
 }
 
 .portfolio-project .portfolio-grids a:hover .b-wrapper {
 	height: 80%;
+	// Cross-browser transparency
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	-moz-opacity:0.9;
+	-khtml-opacity: 0.9;
+	opacity: 0.9;
 }
 
 .portfolio-project i {
@@ -761,8 +779,10 @@ p.sub_cap {
 	padding: 14px 0;
 }
 
-.portfolio-project .b-wrapper p {
+.portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 20px;
+}
+.portfolio-project .b-wrapper p {
 	color: #fff;
 	font-weight: 400;
 	line-height: 1.8em;
@@ -1512,7 +1532,7 @@ ul.address.two li, ul.address.two li a {
     .portfolio-project .b-wrapper h5 {
 	font-size: 20px;
     }
-    .portfolio-project .b-wrapper p {
+    .portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 16px;
     }
 }
@@ -1574,7 +1594,7 @@ ul.address.two li, ul.address.two li a {
     .portfolio-project .b-wrapper h5 {
 	font-size: 17px;
     }
-    .portfolio-project .b-wrapper p {
+    .portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 14px;
     }
 }
@@ -1641,7 +1661,7 @@ ul.address.two li, ul.address.two li a {
     .portfolio-project .b-wrapper h5 {
 	font-size: 20px;
     }
-    .portfolio-project .b-wrapper p {
+    .portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 16px;
     }
 }
@@ -1686,7 +1706,7 @@ ul.address.two li, ul.address.two li a {
     .portfolio-project .b-wrapper h5 {
 	font-size: 19px;
     }
-    .portfolio-project .b-wrapper p {
+    .portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 15px;
     }
     .banner {
@@ -1746,7 +1766,7 @@ ul.address.two li, ul.address.two li a {
     .portfolio-project .b-wrapper h5 {
 	font-size: 15px;
     }
-    .portfolio-project .b-wrapper p {
+    .portfolio-project .b-wrapper p, .circle-icon i, .circle-icon b {
 	font-size: 12px;
     }
 }
@@ -1943,3 +1963,31 @@ ul.address.two li, ul.address.two li a {
   margin-left: auto;
   margin-right: auto;
  }
+
+.circle-icon {
+    background: #eeeeee;
+    //width: 2em;
+    ////height: 100px;
+    border-radius: 60px;
+    padding:5px;
+    margin:10px;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    //border:1px solid black;
+    border-style: ridge;
+}
+
+.circle-icon i {
+	border: 0;
+	padding-right: 5px;
+}
+
+i .fa-thumbs-up {
+	color: green;
+}
+i .fa-thumbs-down {
+	color: red;
+}

@@ -12,7 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="css/font-awesome.css" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/27def0ec8f.js"></script>
 	<!-- Pop-up -->
 	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <style>
@@ -20,6 +20,37 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </head>
 
 <body>
+	<div class="banner_nav_w3layouts">
+		<nav class="navbar navbar-default">
+			<div class="navbar-header navbar-left">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				<h1><a class="navbar-brand" href="index.html"><i class="fa fa-pie-chart" aria-hidden="true"></i>Mulan Book</a></h1>
+
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+				<nav>
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.html" class="hvr-underline-from-center">Home</a></li>
+						<li><a href="#sample" class="hvr-underline-from-center scroll">Subscribe</a></li>
+						<li><a href="#book" class="hvr-underline-from-center scroll">Book</a></li>
+						<li><a href="#audiobook" class="hvr-underline-from-center scroll">Audiobook</a></li>
+						<li><a href="#reviews" class="hvr-underline-from-center scroll">Reviews</a></li>
+						<li><a href="#sample" class="hvr-underline-from-center scroll">Free sample</a></li>
+						<li><a href="#articles" class="hvr-underline-from-center scroll">Articles</a></li>
+					</ul>
+				</nav>
+
+			</div>
+		</nav>
+
+		<div class="clearfix"> </div>
+	</div>
 	<div class="banner" id="home">
 		<div class="container">
 			<div class="title1_agile">
@@ -111,12 +142,13 @@ It was the darkest moment the land under heaven had ever witnessed.
 			<div class="skill_info_wthree_agile">
 				<div class="agile_port_w3ls_info">
 					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
-						<a href="./mulan_joins_the_army" class="b-link-stripe b-animate-go lightninBox" data-lb-group="1">
+						<a href="./mulan_joins_the_army" class="a-wrapper" data-lb-group="1">
 								<img src="images/thumbs/mulan_joins_the_army.jpg" class="img-responsive" alt=" " />
 								<div class="b-wrapper">
 									<h5>Mulan Joins the Army</h5>
 									<p>A short and simple comedy which served as an inspiration for many retellings which later followed.</p>
 								</div>
+								<span class="circle-icon"><i class="fas fa-thumbs-up" style="color:green;"></i><b style="color:green;">5</b><i class="fas fa-thumbs-down" style="color:red;"></i><b style="color:red;">2</b></span>
 							</a>
 					</div>
 					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
@@ -124,8 +156,9 @@ It was the darkest moment the land under heaven had ever witnessed.
 								<img src="images/thumbs/romance_of_sui_and_tang.jpg" class="img-responsive" alt=" " />
 								<div class="b-wrapper">
 									<h5>Romance of Sui and Tang (Chapters 56-61)</h5>
-									<p>Mulan begins by fighting against the Chinese, but is convinced to change sides after she is captured by a benevolant Chinese princess. When the princess discovers a lost letter from her love interest, which is addressed to a matchmaker, Mulan takes it upon herself to see that the letter reaches its final destination. Will the princess be united with the love of her life?
+									<p onmouseover="findcoord();" id="b1">Mulan begins by fighting against the Chinese, but is convinced to change sides after she is captured by a benevolant Chinese princess. When the princess discovers a lost letter from her love interest, which is addressed to a matchmaker, Mulan takes it upon herself to see that the letter reaches its final destination. Will the princess be united with the love of her life?
 								</div>
+								<span class="circle-icon" id="c1"><i class="fas fa-thumbs-up" style="color:green;"></i><b style="color:green;">5</b><i class="fas fa-thumbs-down" style="color:red;"></i><b style="color:red;">2</b></span>
 							</a>
 					</div>
 					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
@@ -135,6 +168,7 @@ It was the darkest moment the land under heaven had ever witnessed.
 									<h5>Biography of Extraordinary Mulan</h5>
 									<p>Zhu Ruoxu seeks to earn a prominent position. Although he never succeeds, he passes down his knowledge to his granddaughter, Mulan. Many years later, Mulan uses her grandfather's wisdom to defeat the powers of evil but eventually finds that good does not always triumph.</p>
 								</div>
+								<span class="circle-icon"><i class="fas fa-thumbs-up" style="color:green;"></i><b style="color:green;">5</b><i class="fas fa-thumbs-down" style="color:red;"></i><b style="color:red;">2</b></span>
 							</a>
 					</div>
 					<div class="col-md-6 portfolio-grids" data-aos="zoom-in">
@@ -144,6 +178,7 @@ It was the darkest moment the land under heaven had ever witnessed.
 									<h5>Fiercely Filial</h5>
 									<p>Mulan is so adept at warfare that the vanguard grows increasinly jealous of her abilities. Mulan even wins the trust of the enemy princess and thus secures the victory. However, when her fianc&eacute; is apointed army supervisor, she struggles with her her femininity while continuing to pose as a man. Does her feminine nature have any place on the battlefield? Or, will she lose herself and become a hardened warrior?</p>
 								</div>
+								<span class="circle-icon"><i class="fas fa-thumbs-up" style="color:green;"></i><b style="color:green;">5</b><i class="fas fa-thumbs-down" style="color:red;"></i><b style="color:red;">2</b></span>
 							</a>
 					</div>
 					<div class="clearfix"> </div>
@@ -152,39 +187,6 @@ It was the darkest moment the land under heaven had ever witnessed.
 		</div>
 	</div>
         <!- - //blog -->
-	<!-- /contact -//->
-	<div class="contact_sec" id="sample">
-		<div class="container">
-			<h3 class="tittle_w3layouts two con">Subscribe for updates</h3>
-			<p class="sub_para two"><a href="http://eepurl.com/gmfhpj">Subscribe to my newsletter</a> and I'll keep you updated on my research and progress on editing this book.</p>
-			<div class="contact-info skill_info">
-				<!-- Begin Mailchimp Signup Form -//->
-				<div id="mc_embed_signup">
-				<form action="https://mulanbook.us20.list-manage.com/subscribe/post?u=f25c7fab2996d1b93cf488de8&amp;id=54faee06f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-				    <div id="mc_embed_signup_scroll">
-					
-				<div class="mc-field-group">
-					<input type="text" value="" name="NAME" placeholder="Your Name" class="required" id="mce-NAME">
-				</div>
-				<div class="mc-field-group">
-					<input type="email" value="" name="EMAIL" placeholder="Your Email" class="required email" id="mce-EMAIL">
-				</div>
-					<div id="mce-responses" class="clear">
-						<div class="response" id="mce-error-response"></div>
-						<div class="response" id="mce-success-response"></div>
-					</div>    <!-//- real people should not fill this in and expect good things - do not remove this or risk form bot signups-//->
-				    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f25c7fab2996d1b93cf488de8_54faee06f6" tabindex="-1" value=""></div>
-				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-				    </div>
-				</form>
-				</div>
-				<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-				<!-//-End mc_embed_signup-//->
-			</div>
-		</div>
-	</div>
-	<!-- //contact -->
-
 	<!-- /footer -->
 	<div class="footer">
 		<div class="container">
@@ -200,7 +202,6 @@ It was the darkest moment the land under heaven had ever witnessed.
 	<!-- start-smoth-scrolling -->
 	<script type="text/javascript" src="js/move-top.js"></script>
 	<script type="text/javascript" src="js/easing.js"></script>
-	<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 	<script type="text/javascript">
 		jQuery(document).ready(function ($) {
 			$(".scroll").click(function (event) {
@@ -227,7 +228,14 @@ It was the darkest moment the land under heaven had ever witnessed.
 				easingType: 'easeOutQuart'
 			});
 		});
+
+function findcoord()
+{
+	b1 = document.getElementById("b1").getBoundingClientRect().bottom;
+	c1 = document.getElementById("c1").getBoundingClientRect().top;
+	setTimeout(function(){fin = elem.getBoundingClientRect().bottom;},500);
+	setTimeout(function(){alert(b1+"..."+c1);},600);
+}
 	</script>
-	<!-- //smooth scrolling -->
 </body>
 </html>
